@@ -1,20 +1,24 @@
 ## Smart-Traffic-Light-System
 
 ## Members
+
 > Daniel Muthama
 > Gabriel Musanga
 > Irene
 
 ### About the project
+
 This is an automated traffic light system. Smart traffic lights or Intelligent traffic lights are a vehicle traffic control system that combines traditional traffic lights with an array of sensors and artificial intelligence to intelligently route vehicle and pedestrian traffic. They can form part of a bigger intelligent transport system.
 
 ### Technologies used
+
 > java 
 > GUI
 
 ### How it works
 
 #### intro
+
     The concept of the Smart City has emerged in recent years as a futuristic vision of cities building sustainable ecosystems, while promoting citizen welfare and economic growth. A Smart City fosters the use of advanced ubiquitous information communication technologies (ICTs) to smartly and efficiently monitor and manage its critical assets such as energy, water, and transportation infrastructure. Such an ambition can become a reality only with joint efforts from governmental, industrial, academic and social actors. Building smart cities, however, strongly depends on various enabling advanced technologies (e.g., sensors, Internet of Things (IoT), 5G networks, the cloud, Artificial Intelligence, connected vehicles, etc.) to support sustainable developments such as smart buildings and energy, and smart and green transportation. Smart and Green Transportation Systems (SGTS) are considered a main pillar of smart cities since the efficiency of several services are reliant on their level of robustness and security [1]. Transport experts foresee that SGTS will be mainly comprised of automated or autonomous vehicles, as well as cutting-edge transportation infrastructure and innovative applications. Such an infrastructure includes advanced traffic light controllers, cutting-edge traffic monitoring equipment and sensing devices, etc. The main mission of a SGTS is to efficiently control and mitigate road traffic congestion problem that most of cities suffer from.
 The excessive traffic congestion we see everyday, especially in urban areas, is primarily due to the increase in the number of vehicles in circulation which in turn causes accidents and worsens the congestion level of the already deteriorated road network infrastructure. Traffic congestion has major impacts on the environment, the economy and the population’s health [2].
     
@@ -23,4 +27,5 @@ The excessive traffic congestion we see everyday, especially in urban areas, is 
       The excessive traffic congestion we see everyday, especially in urban areas, is primarily due to the increase in the number of vehicles in circulation which in turn causes accidents and worsens the congestion level of the already deteriorated road network infrastructure. Traffic congestion has major impacts on the environment, the economy and the population’s health [2]. Numerous studies have been conducted in the last decades to improve the traffic flow fluidity, especially during peak hours. Although some of the developed solutions have already been implemented in many big cities across the world and led to a non negligible improvement of traffic congestion control and mitigation efficiency, there is still a lot to be done as traffic congestion remains a serious problem with a detrimental impact. The INRIX Global Traffic Scorecard [3] published the results of their research on the impact of congestion during the year 2016 in more than a thousand cities around the world. From the 38 countries involved, the United Kingdom (UK) is the 4th most congested with an estimation of 32 h wasted annually per driver during peak hours. The congestion impact on the economy is staggering as direct and indirect cost altogether in the UK were estimated to be around £30.8 billion in 2016 which translates to around £968 per driver. Indirect costs are estimated to be 12% of the total cost. When it comes to London alone, the most congested city in the UK, the 2nd in Europe (behind Moscow) and the 7th in the world, these figures get even worse as in 2016 each driver wasted on average 73 h during peak hours, more than double the UK average. The annual congestion cost per driver in London was estimated to be £1911, which translates to £6.2 billion for the whole city. Traffic congestion also has a major impact on the environment because vehicles that are idling or moving at low speed create unnecessary air pollution through the emission of carbon dioxide which has the negative impact on global warming.
       
 #### Implementation
+
 uses car timing and queueing to reduce traffic
